@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   <a href="https://www.codechef.com/users/quant_mani" target="_blank"> 
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Bbu95" target="_blank"> 
+<!--   <a href="https://codeforces.com/profile/Bbu95" target="_blank"> 
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-  </a> 
+  </a>  -->
   <a href="https://ctftime.org/user/182145" target="_blank"> 
     <img src="https://img.shields.io/badge/CTFtime-181717?style=flat-square&logo=ctftime&logoColor=white" /> 
   </a>
